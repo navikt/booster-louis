@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <!-- Person walking to work with briefcase -->
+  <!-- Head -->
+  <circle cx="135" cy="68" r="24" fill="#8B9DC3" />
+  <!-- Determined/happy face -->
+  <circle cx="128" cy="64" r="2.5" fill="#2C3E50" />
+  <circle cx="142" cy="64" r="2.5" fill="#2C3E50" />
+  <path d="M127 76 Q135 83 143 76" stroke="#2C3E50" stroke-width="2.5" fill="none" stroke-linecap="round" />
+  <!-- Body (shirt/jacket) -->
+  <rect x="118" y="92" width="34" height="55" rx="8" fill="#4A6FA5" />
+  <!-- Tie -->
+  <polygon points="135,94 132,110 135,114 138,110" fill="#E74C3C" opacity="0.8" />
+  <!-- Back leg (stride) -->
+  <rect x="120" y="147" width="13" height="44" rx="5" fill="#3B3F4A" transform="rotate(14 126 147)" />
+  <!-- Front leg (stride) -->
+  <rect x="135" y="147" width="13" height="44" rx="5" fill="#3B3F4A" transform="rotate(-12 141 147)" />
+  <!-- Arm holding briefcase -->
+  <path d="M152 105 Q165 125 162 145" stroke="#8B9DC3" stroke-width="11" stroke-linecap="round" fill="none" />
+  <!-- Other arm swinging -->
+  <path d="M118 108 Q100 128 96 140" stroke="#8B9DC3" stroke-width="11" stroke-linecap="round" fill="none" />
+  <!-- Briefcase -->
+  <rect x="148" y="148" width="36" height="26" rx="4" fill="#8B6914" />
+  <rect x="148" y="148" width="36" height="4" rx="2" fill="#6B5010" />
+  <rect x="159" y="142" width="14" height="8" rx="3" fill="none" stroke="#6B5010" stroke-width="3" />
+  <line x1="166" y1="155" x2="166" y2="165" stroke="#6B5010" stroke-width="2" />
+  <circle cx="166" cy="162" r="2.5" fill="#D4A017" />
+  <!-- Ground line -->
+  <line x1="40" y1="201" x2="260" y2="201" stroke="#5A6478" stroke-width="2" opacity="0.4" />
+  <!-- Office building in background -->
+  <rect x="220" y="90" width="50" height="111" rx="3" fill="#5A6478" opacity="0.3" />
+  <rect x="228" y="100" width="10" height="12" rx="1" fill="#7BA1C7" opacity="0.4" />
+  <rect x="244" y="100" width="10" height="12" rx="1" fill="#7BA1C7" opacity="0.4" />
+  <rect x="228" y="120" width="10" height="12" rx="1" fill="#7BA1C7" opacity="0.4" />
+  <rect x="244" y="120" width="10" height="12" rx="1" fill="#7BA1C7" opacity="0.4" />
+  <rect x="228" y="140" width="10" height="12" rx="1" fill="#7BA1C7" opacity="0.4" />
+  <rect x="244" y="140" width="10" height="12" rx="1" fill="#7BA1C7" opacity="0.4" />
+  <rect x="228" y="160" width="10" height="12" rx="1" fill="#7BA1C7" opacity="0.4" />
+  <rect x="244" y="160" width="10" height="12" rx="1" fill="#7BA1C7" opacity="0.4" />
+  <rect x="238" y="180" width="14" height="21" rx="2" fill="#4A5568" opacity="0.4" />
+</svg>

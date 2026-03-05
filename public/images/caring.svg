@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <!-- Person caring about another person -->
+  <!-- Person 1 (supporter) -->
+  <circle cx="110" cy="80" r="24" fill="#8B9DC3" />
+  <!-- Warm smile -->
+  <circle cx="103" cy="76" r="2.5" fill="#2C3E50" />
+  <circle cx="117" cy="76" r="2.5" fill="#2C3E50" />
+  <path d="M102 88 Q110 95 118 88" stroke="#2C3E50" stroke-width="2.5" fill="none" stroke-linecap="round" />
+  <!-- Body -->
+  <rect x="93" y="104" width="34" height="55" rx="8" fill="#6C7A9C" />
+  <!-- Legs -->
+  <rect x="96" y="159" width="13" height="40" rx="5" fill="#5A6478" />
+  <rect x="112" y="159" width="13" height="40" rx="5" fill="#5A6478" />
+  <!-- Arm around other person (caring gesture) -->
+  <path d="M144 112 Q168 108 178 115" stroke="#8B9DC3" stroke-width="11" stroke-linecap="round" fill="none" />
+  <!-- Other arm -->
+  <path d="M93 118 Q80 130 78 140" stroke="#8B9DC3" stroke-width="11" stroke-linecap="round" fill="none" />
+
+  <!-- Person 2 (being cared for) -->
+  <circle cx="190" cy="85" r="22" fill="#C4B5A0" />
+  <!-- Grateful smile -->
+  <circle cx="184" cy="81" r="2.2" fill="#2C3E50" />
+  <circle cx="196" cy="81" r="2.2" fill="#2C3E50" />
+  <path d="M183 92 Q190 98 197 92" stroke="#2C3E50" stroke-width="2" fill="none" stroke-linecap="round" />
+  <!-- Body -->
+  <rect x="174" y="107" width="32" height="52" rx="8" fill="#7BA1C7" />
+  <!-- Legs -->
+  <rect x="176" y="159" width="12" height="40" rx="5" fill="#5A6A85" />
+  <rect x="192" y="159" width="12" height="40" rx="5" fill="#5A6A85" />
+
+  <!-- Heart above them -->
+  <g transform="translate(150, 30)">
+    <path d="M0 10 C0 0, -15 -5, -15 8 C-15 18, 0 28, 0 28 C0 28, 15 18, 15 8 C15 -5, 0 0, 0 10Z" fill="#E74C3C" opacity="0.8" />
+  </g>
+  <!-- Smaller hearts -->
+  <g transform="translate(85, 45) scale(0.5)">
+    <path d="M0 10 C0 0, -15 -5, -15 8 C-15 18, 0 28, 0 28 C0 28, 15 18, 15 8 C15 -5, 0 0, 0 10Z" fill="#E74C3C" opacity="0.5" />
+  </g>
+  <g transform="translate(220, 50) scale(0.4)">
+    <path d="M0 10 C0 0, -15 -5, -15 8 C-15 18, 0 28, 0 28 C0 28, 15 18, 15 8 C15 -5, 0 0, 0 10Z" fill="#E74C3C" opacity="0.4" />
+  </g>
+  <!-- Ground -->
+  <line x1="50" y1="202" x2="250" y2="202" stroke="#5A6478" stroke-width="2" opacity="0.4" />
+</svg>

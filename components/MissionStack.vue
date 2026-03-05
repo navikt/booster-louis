@@ -45,7 +45,7 @@
             Nais
           </h3>
             <div style="font-size: 0.9rem; margin-top: 0.25rem;">👩‍💻 👨‍💻 👩‍💻 👨‍💻</div>
-            <p class="text-xs mt-1" style="color: var(--nais-text-secondary)">Can we build and maintain the application?</p>
+            <p class="text-xs mt-1" style="color: var(--nais-text-secondary)">It should be easy to build and maintain applications!</p>
             <div class="flex items-center gap-2 mt-2">
               <div class="tech-pill green">
                 <img
@@ -82,7 +82,7 @@
           >
             <h3 class="text-sm font-bold" style="color: #8b5cf6">Data platform</h3>
             <div style="font-size: 0.9rem; margin-top: 0.25rem;">👨‍💻 👩‍💻 👨‍💻</div>
-            <p class="text-xs mt-1" style="color: var(--nais-text-secondary)">Do we solve the user needs?</p>
+            <p class="text-xs mt-1" style="color: var(--nais-text-secondary)">It should be easy to understand if we solve stuff for our users!</p>
             <div class="flex items-center gap-2 mt-2">
               <div class="tech-pill purple">
                 <img
@@ -112,7 +112,7 @@
           >
             <h3 class="text-sm font-bold" style="color: #f59e0b">Platforce</h3>
             <div style="font-size: 0.9rem; margin-top: 0.25rem;">👩‍💻 👨‍💻</div>
-            <p class="text-xs mt-1" style="color: var(--nais-text-secondary)">Can we build an maintain the low-code applications?</p>
+            <p class="text-xs mt-1" style="color: var(--nais-text-secondary)">It should be easy to build and maintain the low-code applications!</p>
             <div class="flex items-center gap-2 mt-2">
               <div class="tech-pill amber">
                 <img

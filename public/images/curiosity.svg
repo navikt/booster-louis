@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <!-- Person with magnifying glass exploring / curiosity -->
+  <!-- Head -->
+  <circle cx="130" cy="75" r="26" fill="#8B9DC3" />
+  <!-- Curious wide eyes -->
+  <circle cx="122" cy="70" r="3.5" fill="#2C3E50" />
+  <circle cx="138" cy="70" r="3.5" fill="#2C3E50" />
+  <!-- Bright sparkle in eyes -->
+  <circle cx="123" cy="69" r="1.2" fill="white" />
+  <circle cx="139" cy="69" r="1.2" fill="white" />
+  <!-- Raised eyebrows -->
+  <path d="M117 62 Q122 58 127 62" stroke="#2C3E50" stroke-width="2" fill="none" stroke-linecap="round" />
+  <path d="M133 62 Q138 58 143 62" stroke="#2C3E50" stroke-width="2" fill="none" stroke-linecap="round" />
+  <!-- Small open mouth (wonder) -->
+  <ellipse cx="130" cy="84" rx="4" ry="3" fill="#2C3E50" />
+  <!-- Body leaning forward -->
+  <rect x="113" y="101" width="34" height="55" rx="8" fill="#6C7A9C" transform="rotate(-5 130 128)" />
+  <!-- Legs -->
+  <rect x="115" y="155" width="13" height="42" rx="5" fill="#5A6478" />
+  <rect x="132" y="155" width="13" height="42" rx="5" fill="#5A6478" />
+  <!-- Arm holding magnifying glass -->
+  <path d="M147 115 Q170 110 185 95" stroke="#8B9DC3" stroke-width="11" stroke-linecap="round" fill="none" />
+  <!-- Other arm on chin (thinking) -->
+  <path d="M113 115 Q100 120 108 85" stroke="#8B9DC3" stroke-width="11" stroke-linecap="round" fill="none" />
+  <!-- Magnifying glass -->
+  <circle cx="200" cy="78" r="24" stroke="#F4D35E" stroke-width="5" fill="none" />
+  <circle cx="200" cy="78" r="24" fill="#F4D35E" opacity="0.1" />
+  <line x1="183" y1="96" x2="172" y2="108" stroke="#F4D35E" stroke-width="6" stroke-linecap="round" />
+  <!-- Sparkles / question marks around (curiosity) -->
+  <text x="215" y="50" font-family="Arial" font-size="20" fill="#F4D35E" opacity="0.8">?</text>
+  <text x="240" y="80" font-family="Arial" font-size="16" fill="#F4D35E" opacity="0.6">?</text>
+  <text x="225" y="110" font-family="Arial" font-size="14" fill="#F4D35E" opacity="0.5">?</text>
+  <!-- Sparkles -->
+  <g fill="#F4D35E" opacity="0.6">
+    <polygon points="60,50 62,44 64,50 70,52 64,54 62,60 60,54 54,52" />
+    <polygon points="245,140 247,135 249,140 254,142 249,144 247,149 245,144 240,142" transform="scale(0.8)" />
+    <polygon points="80,120 81,116 82,120 86,121 82,122 81,126 80,122 76,121" />
+  </g>
+  <!-- Ground -->
+  <line x1="60" y1="200" x2="260" y2="200" stroke="#5A6478" stroke-width="2" opacity="0.4" />
+</svg>
