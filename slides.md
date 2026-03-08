@@ -174,10 +174,6 @@ layout: default
 
 ::default::
 <div class="flex items-start justify-center mt-4 gap-12">
-  <ul class="text-lg" style="max-width: 400px; color: var(--nais-text-secondary); list-style: disc; padding-left: 1.5rem; display: flex; flex-direction: column; gap: 1rem;">
-    <li v-click>They know their users</li>
-    <li v-click>They know the potential solutions</li>
-  </ul>
   <CycleRing color="#3b82f6" id="product" />
 </div>
 
@@ -191,11 +187,6 @@ layout: default
 
 ::default::
 <div class="flex items-start justify-center mt-4 gap-12">
-  <ul class="text-lg" style="max-width: 400px; color: var(--nais-text-secondary); list-style: disc; padding-left: 1.5rem; display: flex; flex-direction: column; gap: 1rem;">
-    <li v-click>Take some of the burden off teams</li>
-    <li v-click>Encourage teams to do what we want them to do</li>
-    <li v-click>Enforce teams to do what we want them to do</li>
-  </ul>
   <CycleRing color="#10b981" id="platform" />
 </div>
 
@@ -209,6 +200,18 @@ layout: default
 
 ::default::
 <MissionStack />
+
+---
+layout: quote
+---
+
+# The stuff is complex
+
+---
+layout: quote
+---
+
+# ...and uncertain
 
 ---
 layout: quote
@@ -447,7 +450,7 @@ layout: quote
 layout: quote
 ---
 
-# ...and
+# ...and...
 
 ---
 layout: quote
@@ -526,7 +529,7 @@ layout: default
 layout: quote
 ---
 
-# "I`m curious"
+# "I ask because I am curious"
 
 ---
 layout: quote
